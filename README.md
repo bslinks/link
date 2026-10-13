@@ -9,5 +9,5 @@
 
 
 
-[possible search](r.studyschooltoday.eu.org)
+[possible search](https://r.studyschooltoday.eu.org)
 
