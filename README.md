@@ -1,11 +1,8 @@
-[Click here](https://instructure.storage.googleapis.com/index.html#/search)
+[Dogeub (.com only)](https://instructure.storage.googleapis.com/index.html#/search)
 
-[Click here](https://quackprep.org)
+[poki/Game site](https://quackprep.org)
 
-[Click here](https://fva2.z2.web.windows.net)
+## testing section: some things may not work dont below!
 
-[Click here](https://int.adepoju.org)
+[possible search](r.studyschooltoday.eu.org)
 
-[Click here](https://e.tectach.net)
-
-[Click here](https://wea-f.github.io/Norepted/)
