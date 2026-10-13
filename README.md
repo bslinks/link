@@ -1,4 +1,4 @@
-[Dogeub (.com only)](https://instructure.storage.googleapis.com/index.html#/search)
+[Dogeub (.com only)](https://instructure.storage.googleapis.com/index.html#)
 
 [poki/Game site](https://quackprep.org)
 
