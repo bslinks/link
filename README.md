@@ -17,11 +17,11 @@
 
 [test link 4](https://os.nhhc.com.au/)
 
-[test link 5](https://lunarok.brucehickey.com/)
+[test link 5](https://os.nhhc.com.au/)
 
-[test link 6](https://stroberriok.nhhc.com.au/)
+[test link 6](https://os.jz.atagis.eu/)
 
-[test link 7](https://voya.colegioitalocomposto.cl/)
+[test link 7](https://os.brucehickey.com/)
 
 [test link 8](https://studyhub.colegioitalocomposto.cl/)
 
