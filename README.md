@@ -1,31 +1,56 @@
+#Original links
+
 [Dogeub (.com only)](https://instructure.storage.googleapis.com/index.html#)
 
 [poki/Game site](https://quackprep.org)
 
 
+# these links were only clicked on to see if they have loaded and have not been tested!
+
+### tung tung links
+[link1](https://albins.cfd/)
+[link2](https://lolration.cfd/)
+
+### SolaraOS links
+[link1](https://os.nhhc.com.au)
+[link2](https://os.jz-katagis.eu)
+[link3](https://os.brucehickey.com/)
+
+### Triple T HD (movies and shows)
+[link1](https://tthd.nhhc.com.au/)
+[link2](https://thd.jz-katagis.eu/)
+[link3](https://thd.brucehickey.com/)
+
+### Space link (Wait about ~5 seconds for the proxy to load; it will load a dummy page first)
+[link1](https://space.nhhc.com.au/)
+[link2](https://sp.jz-katagis.eu/)
+[link3](https://sp.brucehickey.com/)
+
+### Xylora (possible working roblox?)
+
+[link1](https://contentsofthekeepers.thehiddenpineapple.com/)
+[link2](https://light.streetdirectory.sg/)
+[link3](https://rigged.rigaprecast.com.au)
+[link4](https://ocean.newtonanalytics.com/)
 
 
-# Testing section: some things may not work dont below!
+### kite
+
+[link1](https://christopher2u.s3.us-east-1.amazonaws.com/index.html)
+[link2](https://christopher2u.s3.dualstack.us-east-1.amazonaws.com/index.html)
+[link3](https://s3.amazonaws.com/christopher2u/index.html)
+[link4](https://s3.us-east-1.amazonaws.com/christopher2u/index.html)
 
 
-### Possible best proxies
-[test link 1](https://mathshelp.s3.amazonaws.com/index.html)
-
-[test link 2](https://playernation.s3.dualstack.us-east-1.amazonaws.com/index.html)
-
-[test link 3](https://an.jz-katagis.eu/)
-
-[test link 4](https://os.nhhc.com.au/)
-
-[test link 5](https://os.nhhc.com.au/)
-
-[test link 6](https://os.jz.atagis.eu/)
-
-[test link 7](https://os.brucehickey.com/)
-
-[test link 8](https://studyhub.colegioitalocomposto.cl/)
-
-[movie site](https://cinera.kkmsilvia.com/)
 
 
-## Find a broken link? Click [here](https://playernation1.blogspot.com/) to find a new link for your proxy and send it [here](https://forms.gle/ASX2Sd9g78fv9RyC8)
+## Random links that may or may not work
+
+[click here](https://sonic-burger.nexus-computing.com/)
+[click here](https://neatreading.babypos.hk/)
+[click here](https://tutoring-services.org/)
+[click here](https://schoolgome12.art-motel.com/)
+[click here](https://797902fe-b3d7-4ad2-9527-1e67cf1372d1.filesusr.com/html/1ce7bc_50f948dc314c4525966a767f300ffa00.html)
+[click here](https://schoolgome12.art-motel.com/)
+
+
