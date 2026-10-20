@@ -6,6 +6,8 @@
 
 All proxies were fround [here](https://playernation1.blogspot.com/)
 
+now.gg [click here](https://now.gg/)
+
 # these links were only clicked on to see if they have loaded and have not been tested!
 
 ### tung tung links
