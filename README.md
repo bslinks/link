@@ -4,6 +4,7 @@
 
 [poki/Game site](https://quackprep.org)
 
+All proxies were fround [here](https://playernation1.blogspot.com/)
 
 # these links were only clicked on to see if they have loaded and have not been tested!
 
