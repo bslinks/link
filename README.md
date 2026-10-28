@@ -12,7 +12,7 @@ now.gg [click here](https://now.gg/)
 
 [more test link](https://wasabi.wumahui.xyz/)
 
-[gn-math](gn-math.dev)
+[gn-math](https://gn-math.dev)
 
 [new best proxy](https://commonsensehealthcare.org) Press ctrl + e to get to proxy
 # these links were only clicked on to see if they have loaded and have not been tested!
