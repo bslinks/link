@@ -4,7 +4,9 @@
 
 [poki/Game site](https://quackprep.org)
 
-All proxies were fround [here](https://playernation1.blogspot.com/)
+All proxies were found [here](https://playernation1.blogspot.com/)
+
+[minecraft(1.26)](https://gx-launcher.github.io/index.html)
 
 now.gg [click here](https://now.gg/)
 
