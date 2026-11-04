@@ -105,4 +105,4 @@ now.gg [click here](https://now.gg/)
 
 
 
-[link ignore](https://drive.googe.com/drive/my-drive)
+[link ignore](https://drive.google.com/drive/my-drive)
